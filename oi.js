@@ -1,1 +1,6 @@
-console.log ("olá, mundo!")
+function imprimir () {
+    var cheguei = "olá,mundo!";
+    console.log(cheguei);
+}
+
+imprimir(); 
